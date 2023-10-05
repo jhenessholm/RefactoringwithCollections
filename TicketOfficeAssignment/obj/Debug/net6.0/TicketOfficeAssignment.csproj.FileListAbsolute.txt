@@ -1,0 +1,15 @@
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/obj/Debug/net6.0/TicketOfficeAssignment.csproj.AssemblyReference.cache
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/obj/Debug/net6.0/TicketOfficeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/obj/Debug/net6.0/TicketOfficeAssignment.AssemblyInfoInputs.cache
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/obj/Debug/net6.0/TicketOfficeAssignment.AssemblyInfo.cs
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/obj/Debug/net6.0/TicketOfficeAssignment.csproj.CoreCompileInputs.cache
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/bin/Debug/net6.0/TicketOfficeAssignment
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/bin/Debug/net6.0/TicketOfficeAssignment.deps.json
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/bin/Debug/net6.0/TicketOfficeAssignment.runtimeconfig.json
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/bin/Debug/net6.0/TicketOfficeAssignment.dll
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/bin/Debug/net6.0/TicketOfficeAssignment.pdb
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/obj/Debug/net6.0/TicketOfficeAssignment.dll
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/obj/Debug/net6.0/refint/TicketOfficeAssignment.dll
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/obj/Debug/net6.0/TicketOfficeAssignment.pdb
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/obj/Debug/net6.0/TicketOfficeAssignment.genruntimeconfig.cache
+/Users/jhenessholm/Projects/Refactoring with Collections/TicketOfficeAssignment/obj/Debug/net6.0/ref/TicketOfficeAssignment.dll

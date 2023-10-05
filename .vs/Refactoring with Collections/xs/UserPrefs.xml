@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E712CE48-D458-424E-B4FB-9A936CC7266B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicketOfficeAssignment/Program.cs">
+    <Files>
+      <File FileName="TicketOfficeAssignment/Program.cs" Line="179" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Refactoring with Collections" expanded="True">
+            <Node name="TicketOfficeAssignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TicketOfficeAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
